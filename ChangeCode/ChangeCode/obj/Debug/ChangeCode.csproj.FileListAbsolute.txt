@@ -1,0 +1,9 @@
+E:\VS\ChangeCode\ChangeCode\bin\Debug\ChangeCode.exe.config
+E:\VS\ChangeCode\ChangeCode\bin\Debug\ChangeCode.exe
+E:\VS\ChangeCode\ChangeCode\bin\Debug\ChangeCode.pdb
+E:\VS\ChangeCode\ChangeCode\obj\Debug\ChangeCode.csprojResolveAssemblyReference.cache
+E:\VS\ChangeCode\ChangeCode\obj\Debug\ChangeCode.Form1.resources
+E:\VS\ChangeCode\ChangeCode\obj\Debug\ChangeCode.Properties.Resources.resources
+E:\VS\ChangeCode\ChangeCode\obj\Debug\ChangeCode.csproj.GenerateResource.Cache
+E:\VS\ChangeCode\ChangeCode\obj\Debug\ChangeCode.exe
+E:\VS\ChangeCode\ChangeCode\obj\Debug\ChangeCode.pdb

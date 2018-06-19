@@ -1,0 +1,12 @@
+﻿using System.Collections;
+
+    public class GlobalEventType
+    {
+        /// <summary>
+        /// 删除Key
+        /// </summary>
+        public const string DEL_KEY = "DEL_KEY";
+
+    }
+
+
